@@ -1,2 +1,6 @@
-package model;public enum Brand {
+package model;
+
+public enum Brand {
+    APPLE;
+
 }
